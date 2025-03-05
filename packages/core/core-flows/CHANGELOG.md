@@ -1,5 +1,7 @@
 # @medusajs/core-flows
 
+## 2.6.1
+
 ## 2.6.0
 
 ### Patch Changes

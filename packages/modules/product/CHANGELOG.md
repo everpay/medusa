@@ -1,5 +1,11 @@
 # @medusajs/product
 
+## 2.6.1
+
+### Patch Changes
+
+- [#11724](https://github.com/medusajs/medusa/pull/11724) [`cc1309d3709b251683a0cda0ced448f8bf9f514e`](https://github.com/medusajs/medusa/commit/cc1309d3709b251683a0cda0ced448f8bf9f514e) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(product): Improve product normalization
+
 ## 2.6.0
 
 ### Patch Changes

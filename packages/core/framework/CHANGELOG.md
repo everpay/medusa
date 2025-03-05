@@ -1,5 +1,19 @@
 # @medusajs/framework
 
+## 2.6.1
+
+### Patch Changes
+
+- [#11724](https://github.com/medusajs/medusa/pull/11724) [`cc1309d3709b251683a0cda0ced448f8bf9f514e`](https://github.com/medusajs/medusa/commit/cc1309d3709b251683a0cda0ced448f8bf9f514e) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(product): Improve product normalization
+
+- Updated dependencies []:
+  - @medusajs/modules-sdk@2.6.1
+  - @medusajs/orchestration@2.6.1
+  - @medusajs/types@2.6.1
+  - @medusajs/utils@2.6.1
+  - @medusajs/workflows-sdk@2.6.1
+  - @medusajs/telemetry@2.6.1
+
 ## 2.6.0
 
 ### Patch Changes

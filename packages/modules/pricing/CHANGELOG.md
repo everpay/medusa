@@ -1,5 +1,11 @@
 # @medusajs/pricing
 
+## 2.6.1
+
+### Patch Changes
+
+- [#11742](https://github.com/medusajs/medusa/pull/11742) [`16d7294de805e314f36b302c7b3bbdb126ae5c96`](https://github.com/medusajs/medusa/commit/16d7294de805e314f36b302c7b3bbdb126ae5c96) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - fix(pricing): emit events
+
 ## 2.6.0
 
 ## 2.5.1
